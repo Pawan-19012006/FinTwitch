@@ -1,0 +1,85 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 🌌 Global Dark Neon Theme */
+body {
+  background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+  background-size: 300% 300%;
+  animation: gradientShift 20s ease infinite;
+  color: #f9fafb;
+  font-family: 'Audiowide', sans-serif;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* ✨ Smooth Animated Gradient Motion */
+@keyframes gradientShift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* 🌈 Scrollbar Styling (Neon Theme) */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #f472b6 #1a1733;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1a1733;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #f472b6, #22d3ee);
+  border-radius: 10px;
+}
+
+/* 🪩 Neon Card Style (for global use) */
+.card-glass {
+  background: rgba(26, 23, 51, 0.7);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(244, 114, 182, 0.3);
+  border-radius: 16px;
+  box-shadow: 0 0 25px rgba(244, 114, 182, 0.15);
+  transition: all 0.3s ease;
+}
+
+.card-glass:hover {
+  box-shadow: 0 0 35px rgba(34, 211, 238, 0.3);
+}
+
+/* 🧠 Headings & Text Glow */
+h1, h2, h3, h4 {
+  color: #f9fafb;
+  text-shadow: 0 0 10px rgba(244, 114, 182, 0.5);
+}
+
+a {
+  color: #a5f3fc;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #f472b6;
+}
+
+/* 🕶️ Buttons (Unified GTA Style) */
+.btn-neon {
+  background: linear-gradient(90deg, #f472b6, #22d3ee);
+  color: #000;
+  font-weight: 600;
+  border-radius: 9999px;
+  padding: 0.6rem 1.5rem;
+  box-shadow: 0 0 15px rgba(244, 114, 182, 0.3);
+  transition: all 0.3s ease-in-out;
+}
+
+.btn-neon:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 25px rgba(34, 211, 238, 0.4);
+}
