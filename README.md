@@ -40,7 +40,7 @@ It blends **interactive tools**, **habit tracking**, and **gaming mechanics** wi
 > Step inside **Finance City** 🏙️ — where learning money feels like playing a game 🎮
 
 <p align="center">
-  <img src="./Screenshot 2025-10-11 at 7.58.03 PM.jpeg" width="800" alt="FinTwitch Home" />
+  <img src="./fintwitch-home.jpeg" width="800" alt="FinTwitch Home" />
   <br/><br/>
   <img src="./Screenshot 2025-10-11 at 7.58.33 PM.jpeg" width="800" alt="FinTwitch Dashboard" />
   <br/><br/>
