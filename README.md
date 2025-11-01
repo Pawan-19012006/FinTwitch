@@ -1,7 +1,3 @@
-
-<p align="center">
-  <img src="./logo.png" width="200" alt="FinTwitch Logo"/>
-</p>
 <h1 align="center">FinTwitch</h1>
 <h3 align="center">💸 Gamified Personal Finance Web App | Learn. Play. Grow Richer. 💰</h3>
 
@@ -32,24 +28,6 @@ It blends **interactive tools**, **habit tracking**, and **gaming mechanics** wi
 - 📊 **Habit Tracker** – Build daily consistency with streaks and reset options.  
 - 🏆 **Achievements System** – Earn XP, unlock trophies, and level up your financial journey.  
 - 💹 **Stock Ticker & Insights** – Real-time stock updates, quotes, and finance terms.  
-
----
-
-## 🖼️ Preview Gallery
-
-> Step inside **Finance City** 🏙️ — where learning money feels like playing a game 🎮
-
-<p align="center">
-  <img src="./fintwitch-home.jpeg" width="800" alt="FinTwitch Home" />
-  <br/><br/>
-  <img src="./Screenshot 2025-10-11 at 7.58.33 PM.jpeg" width="800" alt="FinTwitch Dashboard" />
-  <br/><br/>
-  <img src="./Screenshot 2025-10-11 at 7.58.51 PM.jpeg" width="800" alt="FinTwitch Tools Page" />
-  <br/><br/>
-  <img src="./Screenshot 2025-10-11 at 7.59.10 PM.jpeg" width="800" alt="FinTwitch Habit Tracker" />
-  <br/><br/>
-  <img src="./Screenshot 2025-10-11 at 7.59.25 PM.jpeg" width="800" alt="FinTwitch Transactions" />
-</p>
 
 ---
 
