@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./image.png" width="200" alt="FinTwitch Logo"/>
-</p>
-
 <h1 align="center">FinTwitch</h1>
 <h3 align="center">💸 Gamified Personal Finance Web App | Learn. Play. Grow Richer. 💰</h3>
 
