@@ -36,7 +36,6 @@ It blends **interactive tools**, **habit tracking**, and **gaming mechanics** wi
 | Category | Technologies |
 |-----------|---------------|
 | **Frontend** | React.js, Tailwind CSS, Framer Motion, Recharts, ShadCN UI |
-| **Backend** | Node.js, Express.js |
 | **Database & Auth** | Firebase (Firestore, Authentication, Hosting) |
 | **Additional Tools** | Git, VS Code |
 
